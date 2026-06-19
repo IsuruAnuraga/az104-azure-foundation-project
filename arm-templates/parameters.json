@@ -1,1 +1,4 @@
-
+{
+  "vmName": "winserver01",
+  "adminUsername": "azureadmin"
+}
