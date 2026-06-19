@@ -1,1 +1,9 @@
-
+Azure Subscription
+   |
+Resource Group
+   |
+Virtual Network
+   |
+Windows Server VM
+   |
+Entra ID
